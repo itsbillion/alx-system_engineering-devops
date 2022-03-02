@@ -3,3 +3,4 @@
 2-bring_me_home changes the working directory to home directory of user
 3-listfiles displays the content of the directory in a long format
 4-listmorefiles dispplays directory content, including hidden files
+5-listfilesdigitonly displays content of file in long format, numerically arranged group ID and hidden files
