@@ -11,3 +11,4 @@
 10-back changes the working directory to the previous one
 11-lists displays all files in the current directory, parent directory and /boot directory in this order in long format
 12-file_type prints the type of the file named iamafile
+13-symbolic_link is a symbolic link to /bin/ls, named __ls__
